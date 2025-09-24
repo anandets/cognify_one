@@ -1,1 +1,9 @@
 # BMAD (local only)
+.bmad-core/
+.claude/
+.cursor/
+.gemini/
+.github/
+.trae/
+.vscode/
+.windsurf/
